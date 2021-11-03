@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Mapping">
+      <UniqueIdentifier>{3330a3e5-61b2-4b1c-a485-6864b5b6aeb4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HandleProcess">
+      <UniqueIdentifier>{6345bfed-c649-4fd8-9761-f42c7c83ca62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ShellCode">
+      <UniqueIdentifier>{68a1ad48-332a-402e-93a7-6f8eafaa2472}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DLLHandler">
+      <UniqueIdentifier>{495d1385-852c-496f-a76b-8d1838af417b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ManualMapInternalDLL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Mapping.cpp">
+      <Filter>Mapping</Filter>
+    </ClCompile>
+    <ClCompile Include="HandleProcess.cpp">
+      <Filter>HandleProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="Shellcode.cpp">
+      <Filter>ShellCode</Filter>
+    </ClCompile>
+    <ClCompile Include="DLLHandler.cpp">
+      <Filter>DLLHandler</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Include.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Mapping.h">
+      <Filter>Mapping</Filter>
+    </ClInclude>
+    <ClInclude Include="HandleProcess.h">
+      <Filter>HandleProcess</Filter>
+    </ClInclude>
+    <ClInclude Include="Shellcode.h">
+      <Filter>ShellCode</Filter>
+    </ClInclude>
+    <ClInclude Include="DLLHandler.h">
+      <Filter>DLLHandler</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

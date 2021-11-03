@@ -1,0 +1,5 @@
+﻿  ManualMapInternalDLL.cpp
+  Mapping.cpp
+D:\The-Shining\Pwning\TeamFotress2\src\ManualMapInternalDLL\Mapping.cpp(49,17): warning C4244: 'initializing': conversion from 'std::streamoff' to 'DWORD', possible loss of data
+  Generating Code...
+  ManualMapInternalDLL.vcxproj -> D:\The-Shining\Pwning\TeamFotress2\src\ManualMapInternalDLL\Debug\ManualMapInternalDLL.exe
