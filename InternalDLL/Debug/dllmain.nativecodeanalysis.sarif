@@ -1,0 +1,1399 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXFLOAT16::value' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 5,
+                  "endLine": 59,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXFLOAT16@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXFLOAT16::value"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXVECTOR2::y' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 5,
+                  "endLine": 91,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXVECTOR2@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXVECTOR2::y"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXVECTOR2::x' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 5,
+                  "endLine": 91,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXVECTOR2@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXVECTOR2::x"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXVECTOR4::y' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 240,
+                  "startColumn": 5,
+                  "endLine": 240,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXVECTOR4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXVECTOR4::y"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXVECTOR4::w' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 240,
+                  "startColumn": 5,
+                  "endLine": 240,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXVECTOR4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXVECTOR4::w"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXVECTOR4::z' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 240,
+                  "startColumn": 5,
+                  "endLine": 240,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXVECTOR4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXVECTOR4::z"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXVECTOR4::x' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 240,
+                  "startColumn": 5,
+                  "endLine": 240,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXVECTOR4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXVECTOR4::x"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXQUATERNION::w' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 429,
+                  "startColumn": 5,
+                  "endLine": 429,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXQUATERNION@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXQUATERNION::w"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXQUATERNION::y' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 429,
+                  "startColumn": 5,
+                  "endLine": 429,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXQUATERNION@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXQUATERNION::y"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXQUATERNION::z' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 429,
+                  "startColumn": 5,
+                  "endLine": 429,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXQUATERNION@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXQUATERNION::z"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXQUATERNION::x' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 429,
+                  "startColumn": 5,
+                  "endLine": 429,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXQUATERNION@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXQUATERNION::x"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXPLANE::d' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 475,
+                  "startColumn": 5,
+                  "endLine": 475,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXPLANE@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXPLANE::d"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXPLANE::b' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 475,
+                  "startColumn": 5,
+                  "endLine": 475,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXPLANE@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXPLANE::b"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXPLANE::c' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 475,
+                  "startColumn": 5,
+                  "endLine": 475,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXPLANE@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXPLANE::c"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXPLANE::a' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 475,
+                  "startColumn": 5,
+                  "endLine": 475,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXPLANE@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXPLANE::a"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXCOLOR::a' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 516,
+                  "startColumn": 5,
+                  "endLine": 516,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXCOLOR@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXCOLOR::a"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXCOLOR::g' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 516,
+                  "startColumn": 5,
+                  "endLine": 516,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXCOLOR@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXCOLOR::g"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXCOLOR::b' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 516,
+                  "startColumn": 5,
+                  "endLine": 516,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXCOLOR@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXCOLOR::b"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXCOLOR::r' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 516,
+                  "startColumn": 5,
+                  "endLine": 516,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXCOLOR@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXCOLOR::r"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXFLOAT16::value' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+                },
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 14,
+                  "endLine": 26,
+                  "endColumn": 14
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXFLOAT16@@QAE@M@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXFLOAT16::value"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXVECTOR2::y' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+                },
+                "region": {
+                  "startLine": 77,
+                  "startColumn": 14,
+                  "endLine": 77,
+                  "endColumn": 14
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXVECTOR2@@QAE@PBUD3DXFLOAT16@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXVECTOR2::y"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXVECTOR4::y' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+                },
+                "region": {
+                  "startLine": 517,
+                  "startColumn": 14,
+                  "endLine": 517,
+                  "endColumn": 14
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXVECTOR4@@QAE@PBUD3DXFLOAT16@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXVECTOR4::y"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXVECTOR4::w' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+                },
+                "region": {
+                  "startLine": 517,
+                  "startColumn": 14,
+                  "endLine": 517,
+                  "endColumn": 14
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXVECTOR4@@QAE@PBUD3DXFLOAT16@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXVECTOR4::w"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXVECTOR4::z' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+                },
+                "region": {
+                  "startLine": 517,
+                  "startColumn": 14,
+                  "endLine": 517,
+                  "endColumn": 14
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXVECTOR4@@QAE@PBUD3DXFLOAT16@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXVECTOR4::z"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXQUATERNION::w' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+                },
+                "region": {
+                  "startLine": 1068,
+                  "startColumn": 17,
+                  "endLine": 1068,
+                  "endColumn": 17
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXQUATERNION@@QAE@PBUD3DXFLOAT16@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXQUATERNION::w"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXQUATERNION::y' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+                },
+                "region": {
+                  "startLine": 1068,
+                  "startColumn": 17,
+                  "endLine": 1068,
+                  "endColumn": 17
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXQUATERNION@@QAE@PBUD3DXFLOAT16@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXQUATERNION::y"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXQUATERNION::z' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+                },
+                "region": {
+                  "startLine": 1068,
+                  "startColumn": 17,
+                  "endLine": 1068,
+                  "endColumn": 17
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXQUATERNION@@QAE@PBUD3DXFLOAT16@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXQUATERNION::z"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXPLANE::d' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+                },
+                "region": {
+                  "startLine": 1241,
+                  "startColumn": 12,
+                  "endLine": 1241,
+                  "endColumn": 12
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXPLANE@@QAE@PBUD3DXFLOAT16@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXPLANE::d"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXPLANE::b' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+                },
+                "region": {
+                  "startLine": 1241,
+                  "startColumn": 12,
+                  "endLine": 1241,
+                  "endColumn": 12
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXPLANE@@QAE@PBUD3DXFLOAT16@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXPLANE::b"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXPLANE::c' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+                },
+                "region": {
+                  "startLine": 1241,
+                  "startColumn": 12,
+                  "endLine": 1241,
+                  "endColumn": 12
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXPLANE@@QAE@PBUD3DXFLOAT16@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXPLANE::c"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXCOLOR::a' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+                },
+                "region": {
+                  "startLine": 1376,
+                  "startColumn": 12,
+                  "endLine": 1376,
+                  "endColumn": 12
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXCOLOR@@QAE@PBUD3DXFLOAT16@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXCOLOR::a"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXCOLOR::g' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+                },
+                "region": {
+                  "startLine": 1376,
+                  "startColumn": 12,
+                  "endLine": 1376,
+                  "endColumn": 12
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXCOLOR@@QAE@PBUD3DXFLOAT16@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXCOLOR::g"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'D3DXCOLOR::b' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+                },
+                "region": {
+                  "startLine": 1376,
+                  "startColumn": 12,
+                  "endLine": 1376,
+                  "endColumn": 12
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXCOLOR@@QAE@PBUD3DXFLOAT16@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXCOLOR::b"
+          }
+        },
+        {
+          "ruleId": "C6387",
+          "message": {
+            "text": "'Temp_value_#1277' could be '0':  this does not adhere to the specification for the function 'CloseHandle'. "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/The-Shining/Pwning/TeamFotress2/src/InternalDLL/dllmain.cpp"
+                },
+                "region": {
+                  "startLine": 122,
+                  "startColumn": 9,
+                  "endLine": 122,
+                  "endColumn": 93
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "DllMain@12",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/The-Shining/Pwning/TeamFotress2/src/InternalDLL/dllmain.cpp"
+                          },
+                          "region": {
+                            "startLine": 119,
+                            "startColumn": 13
+                          }
+                        },
+                        "message": {
+                          "text": "Assume switch ( 'ul_reason_for_call' ) resolves to case 1: "
+                        }
+                      },
+                      "kinds": [
+                        "branch"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/The-Shining/Pwning/TeamFotress2/src/InternalDLL/dllmain.cpp"
+                          },
+                          "region": {
+                            "startLine": 121,
+                            "startColumn": 5
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/The-Shining/Pwning/TeamFotress2/src/InternalDLL/dllmain.cpp"
+                          },
+                          "region": {
+                            "startLine": 122,
+                            "startColumn": 20
+                          }
+                        },
+                        "message": {
+                          "text": "'<symbol>' receives the Return value from 'CreateThread' (declared at c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\um\\processthreadsapi.h:170)"
+                        }
+                      },
+                      "kinds": [
+                        "declaration"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///D:/The-Shining/Pwning/TeamFotress2/src/InternalDLL/dllmain.cpp"
+                          },
+                          "region": {
+                            "startLine": 122,
+                            "startColumn": 20
+                          }
+                        },
+                        "message": {
+                          "text": "'Temp_value_#1277' should not be NULL, because this is not consistent with the SAL annotation on 'CloseHandle'"
+                        }
+                      },
+                      "kinds": [
+                        "usage"
+                      ],
+                      "importance": "essential"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.29.30040.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "commandLine": "D:\\Space-Less\\VStudio\\VC\\Tools\\MSVC\\14.29.30037\\bin\\HostX86\\x86\\c1xx.dll -ACf{1F7B090C-16DB-4822-966A-A93D26ED4681} -ACpmspft140.dll -Alint -D_PREFAST_ -D_AST_FE_ -Analyze -zm0x0088C1D0 -allChunksReserved -il C:\\Users\\rayap\\AppData\\Local\\Temp\\_CL_04d7b2baast -typedil -f dllmain.cpp -Ze -D_MSC_EXTENSIONS -Zp8 -Gs -pc \\:/ -D_MSC_VER=1929 -D_MSC_FULL_VER=192930040 -D_MSC_BUILD=0 -D_WIN32 -D_M_IX86=600 -D_M_IX86_FP=2 -GR -D_CPPRTTI -nologo -W 3 -diagnostics:column -D_GUARDOVERFLOW_CRT_ALLOCATORS=1 -Ot -DCODE_ANALYSIS -DWIN32 -D_DEBUG -DINTERNALDLL_EXPORTS -D_WINDOWS -D_USRDLL -D_WINDLL -D_UNICODE -DUNICODE -EHs -D_CPPUNWIND -EHc -D__MSVC_RUNTIME_CHECKS -RTCs -RTCu -MDd -D_DEBUG -D_MT -D_DLL -GS -D_M_FP_PRECISE -permissive- -Zc:wchar_t -Zc:forScope -Yupch.h -FpDebug\\InternalDLL.pch -FoDebug\\dllmain.obj -FdDebug\\vc142.pdb -external:W 3 -Gd -analyze:projectdirectory D:\\The-Shining\\Pwning\\TeamFotress2\\src\\InternalDLL -analyze:rulesetdirectory ;D:\\Space-Less\\VStudio\\Team Tools\\Static Analysis Tools\\\\Rule Sets; -analyze:ruleset D:\\Space-Less\\VStudio\\Team Tools\\Static Analysis Tools\\Rule Sets\\NativeRecommendedRules.ruleset -analyze:quiet -analyze:plugin D:\\Space-Less\\VStudio\\VC\\Tools\\MSVC\\14.29.30037\\bin\\HostX86\\x86\\EspXEngine.dll -FC -errorreport:prompt -I D:\\Space-Less\\VStudio\\VC\\Tools\\MSVC\\14.29.30037\\include -I D:\\Space-Less\\VStudio\\VC\\Tools\\MSVC\\14.29.30037\\atlmfc\\include -I D:\\Space-Less\\VStudio\\VC\\Auxiliary\\VS\\include -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um -I C:\\Program Files (x86)\\Microsoft DirectX SDK (June 2010)\\Include -external:I D:\\Space-Less\\VStudio\\VC\\Tools\\MSVC\\14.29.30037\\include -I D:\\Space-Less\\VStudio\\VC\\Tools\\MSVC\\14.29.30037\\include -external:I D:\\Space-Less\\VStudio\\VC\\Tools\\MSVC\\14.29.30037\\atlmfc\\include -I D:\\Space-Less\\VStudio\\VC\\Tools\\MSVC\\14.29.30037\\atlmfc\\include -external:I D:\\Space-Less\\VStudio\\VC\\Auxiliary\\VS\\include -I D:\\Space-Less\\VStudio\\VC\\Auxiliary\\VS\\include -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -external:I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um -I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um",
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "deec5e74fb66ffca6cb49f5e225983bb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "ca4ba28fa34ec97fd50fc5b184687363"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///D:/The-Shining/Pwning/TeamFotress2/src/InternalDLL/SDK.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "04067311d256290e9112733d6a065216"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/the-shining/pwning/teamfotress2/src/internaldll/pch.h"
+          },
+          "hashes": {
+            "md5": "f8592ae4100aa66c5a05b79c3c176525"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/the-shining/pwning/teamfotress2/src/internaldll/framework.h"
+          },
+          "hashes": {
+            "md5": "e6d3d70db8312c6917132bed5c610438"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/the-shining/pwning/teamfotress2/src/internaldll/include.h"
+          },
+          "hashes": {
+            "md5": "1934f23e4af5e0e62bc117b4116470c5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3dx9.h"
+          },
+          "hashes": {
+            "md5": "d296189c1d761aa0e1c2daf3b8b592b9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3d9.h"
+          },
+          "hashes": {
+            "md5": "05da735f3db2fe7524da8988539ced99"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3dx9core.h"
+          },
+          "hashes": {
+            "md5": "39a4bd98e0e9d22ba9d51dac286662b9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3dx9xof.h"
+          },
+          "hashes": {
+            "md5": "b338de250ff8747b0fac4a0f567a7d3c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3dx9mesh.h"
+          },
+          "hashes": {
+            "md5": "2de6f4320e7eb78f536e29bf27bc3445"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3dx9shader.h"
+          },
+          "hashes": {
+            "md5": "fc510418305749392ea05d614300b074"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3dx9effect.h"
+          },
+          "hashes": {
+            "md5": "d23677a843bbc1588ee1da62b56a5ccc"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3dx9tex.h"
+          },
+          "hashes": {
+            "md5": "cbf7dc6a3522b1509ade6278f8ff00c5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3dx9shape.h"
+          },
+          "hashes": {
+            "md5": "de5f515b74b8472c5283d840c8327143"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3dx9anim.h"
+          },
+          "hashes": {
+            "md5": "3c2501eaff09346d6c30086d8eb2c6c9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/the-shining/pwning/teamfotress2/src/internaldll/sdk.h"
+          },
+          "hashes": {
+            "md5": "b98a8cca2f6684d1055f29b6387f2f24"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/the-shining/pwning/teamfotress2/src/internaldll/offsets.h"
+          },
+          "hashes": {
+            "md5": "7514ac260262ee60d61926140124d35f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/the-shining/pwning/teamfotress2/src/internaldll/playerentity.h"
+          },
+          "hashes": {
+            "md5": "05e451eacbc9625d8b64fc85c90f4b4f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/the-shining/pwning/teamfotress2/src/internaldll/edges.h"
+          },
+          "hashes": {
+            "md5": "825dd9a827eef02b619fce69b981ba7a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/the-shining/pwning/teamfotress2/src/internaldll/hooking.h"
+          },
+          "hashes": {
+            "md5": "6e8baea8d109a8031682249b80be7697"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/the-shining/pwning/teamfotress2/src/internaldll/dx.h"
+          },
+          "hashes": {
+            "md5": "3d8a7f36c138cdbd7bfb8216427a8031"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/the-shining/pwning/teamfotress2/src/internaldll/drawing.h"
+          },
+          "hashes": {
+            "md5": "9bc48f9b34a29840780a28eee03c0551"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/the-shining/pwning/teamfotress2/src/internaldll/playerentity.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "md5": "52deddb80d548644afaffb72ef280388"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/the-shining/pwning/teamfotress2/src/internaldll/offsets.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "md5": "9d4e81d5daad5b4844b8449598e950e9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/the-shining/pwning/teamfotress2/src/internaldll/hooking.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "md5": "5fbe166e26825956206e2d267aaf3d5b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/the-shining/pwning/teamfotress2/src/internaldll/edges.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "md5": "e905d1d6749c2c93eae0a220e64dea1d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/the-shining/pwning/teamfotress2/src/internaldll/dx.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "md5": "9775d3e2d1108f813ebd719f18589f98"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/the-shining/pwning/teamfotress2/src/internaldll/drawing.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "md5": "44970428d851c625215ccf220959416e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///D:/The-Shining/Pwning/TeamFotress2/src/InternalDLL/dllmain.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "978ada36579391373342c92062c7392f"
+          }
+        }
+      ]
+    }
+  ]
+}

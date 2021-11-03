@@ -1,0 +1,60 @@
+﻿  pch.cpp
+  dllmain.cpp
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Include.h(12,33): warning C4081: expected 'newline'; found ';'
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Include.h(13,34): warning C4081: expected 'newline'; found ';'
+  Drawing.cpp
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Include.h(12,33): warning C4081: expected 'newline'; found ';'
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Include.h(13,34): warning C4081: expected 'newline'; found ';'
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Drawing.cpp(10,28): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Drawing.cpp(10,24): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Drawing.cpp(11,28): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Drawing.cpp(11,24): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Drawing.cpp(12,18): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Drawing.cpp(19,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Drawing.cpp(19,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Drawing.cpp(19,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Drawing.cpp(19,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Drawing.cpp(24,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  dx.cpp
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Include.h(12,33): warning C4081: expected 'newline'; found ';'
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Include.h(13,34): warning C4081: expected 'newline'; found ';'
+  Edges.cpp
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Include.h(12,33): warning C4081: expected 'newline'; found ';'
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Include.h(13,34): warning C4081: expected 'newline'; found ';'
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Edges.cpp(65,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Edges.cpp(66,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Edges.cpp(216,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Edges.cpp(216,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Hooking.cpp
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Include.h(12,33): warning C4081: expected 'newline'; found ';'
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Include.h(13,34): warning C4081: expected 'newline'; found ';'
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Hooking.cpp(55,9): warning C4309: '=': truncation of constant value
+  Offsets.cpp
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Include.h(12,33): warning C4081: expected 'newline'; found ';'
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Include.h(13,34): warning C4081: expected 'newline'; found ';'
+  PlayerEntity.cpp
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Include.h(12,33): warning C4081: expected 'newline'; found ';'
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Include.h(13,34): warning C4081: expected 'newline'; found ';'
+  SDK.cpp
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Include.h(12,33): warning C4081: expected 'newline'; found ';'
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Include.h(13,34): warning C4081: expected 'newline'; found ';'
+  Running Code Analysis for C/C++...
+  Generating Code...
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\PlayerEntity.cpp(102): warning C4172: returning address of local variable or temporary: HeadOrigin
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\PlayerEntity.cpp(262): warning C4172: returning address of local variable or temporary: PlayerClass
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\PlayerEntity.cpp(315): warning C4172: returning address of local variable or temporary: BoneMatrix
+  InternalDLL.vcxproj -> D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Debug\InternalDLL.dll
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3dx9math.h(59): warning C26495: Variable 'D3DXFLOAT16::value' is uninitialized. Always initialize a member variable (type.6).
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3dx9math.h(91): warning C26495: Variable 'D3DXVECTOR2::y' is uninitialized. Always initialize a member variable (type.6).
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3dx9math.h(240): warning C26495: Variable 'D3DXVECTOR4::y' is uninitialized. Always initialize a member variable (type.6).
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3dx9math.h(429): warning C26495: Variable 'D3DXQUATERNION::w' is uninitialized. Always initialize a member variable (type.6).
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3dx9math.h(475): warning C26495: Variable 'D3DXPLANE::d' is uninitialized. Always initialize a member variable (type.6).
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3dx9math.h(516): warning C26495: Variable 'D3DXCOLOR::a' is uninitialized. Always initialize a member variable (type.6).
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3dx9math.inl(26): warning C26495: Variable 'D3DXFLOAT16::value' is uninitialized. Always initialize a member variable (type.6).
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3dx9math.inl(77): warning C26495: Variable 'D3DXVECTOR2::y' is uninitialized. Always initialize a member variable (type.6).
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3dx9math.inl(517): warning C26495: Variable 'D3DXVECTOR4::y' is uninitialized. Always initialize a member variable (type.6).
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3dx9math.inl(1068): warning C26495: Variable 'D3DXQUATERNION::w' is uninitialized. Always initialize a member variable (type.6).
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3dx9math.inl(1241): warning C26495: Variable 'D3DXPLANE::d' is uninitialized. Always initialize a member variable (type.6).
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3dx9math.inl(1376): warning C26495: Variable 'D3DXCOLOR::a' is uninitialized. Always initialize a member variable (type.6).
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\dllmain.cpp(122): warning C6387: 'Temp_value_#1277' could be '0':  this does not adhere to the specification for the function 'CloseHandle'. 
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\SDK.cpp(6): warning C6387: 'Temp_value_#126' could be '0':  this does not adhere to the specification for the function 'GetProcAddress'. 

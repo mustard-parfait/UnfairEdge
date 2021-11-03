@@ -1,0 +1,10 @@
+﻿  Edges.cpp
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Include.h(12,33): warning C4081: expected 'newline'; found ';'
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Include.h(13,34): warning C4081: expected 'newline'; found ';'
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Edges.cpp(66,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Edges.cpp(67,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Edges.cpp(126,12): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'uintptr_t'
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Edges.cpp(126,12): message : consider using '%llX' in the format string
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Edges.cpp(126,12): message : consider using '%IX' in the format string
+D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\Edges.cpp(126,12): message : consider using '%I64X' in the format string
+  InternalDLL.vcxproj -> D:\The-Shining\Pwning\TeamFotress2\src\InternalDLL\x64\Debug\InternalDLL.dll
