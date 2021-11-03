@@ -1,0 +1,13 @@
+﻿  Edges.cpp
+D:\The-Shining\Pwning\TeamFotress2\src\StandardWINAPI\Edges.cpp(56,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\The-Shining\Pwning\TeamFotress2\src\StandardWINAPI\Edges.cpp(57,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Offsets.cpp
+  PlayerEntity.cpp
+  SDK.cpp
+  StandardWINAPI.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+D:\The-Shining\Pwning\TeamFotress2\src\StandardWINAPI\PlayerEntity.cpp(242): warning C4172: returning address of local variable or temporary: PlayerClass
+  All 54 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  StandardWINAPI.vcxproj -> D:\The-Shining\Pwning\TeamFotress2\src\StandardWINAPI\Release\StandardWINAPI.exe
